@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "147459180988",
+    "firebase_url": "https://instaclon-a09b2.firebaseio.com",
+    "project_id": "instaclon-a09b2",
+    "storage_bucket": "instaclon-a09b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147459180988:android:5cdf061b8be3f27bdb83b9",
+        "android_client_info": {
+          "package_name": "com.fatihb.instaclon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147459180988-qndkq4bf6hcs9chu1dl6eoervpfh9h18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0cT5Mo32I8jNlbilKfDDkY6Iw13e-DQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147459180988-qndkq4bf6hcs9chu1dl6eoervpfh9h18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
